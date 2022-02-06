@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "show_excerpts:"
   "I believe in the future resolution of two states,
   dream and reality, which are seemingly so
   contradictory, into a kind of absolute reality,
-  a surreality, if one may so speak" - André Breton
+  a surreality, if one may so speak." - André Breton
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
