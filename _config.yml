@@ -56,6 +56,7 @@ minima:
 # Build settings
 remote_theme: jekyll/minima
 show_excerpts: true
+excerpt_separator: <!-- excerpt-end -->
 
 plugins:
  - jekyll-feed
