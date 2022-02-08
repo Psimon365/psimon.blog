@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who is Psimon?
-date: {}
+date: 2022-02-07T00:00:00.000Z
 categories: jekyll update
 published: true
 ---
